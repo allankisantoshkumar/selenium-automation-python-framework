@@ -1,0 +1,14 @@
+{
+  "test1":{
+  "goingfrom":"New Delhi",
+  "goingto":"JFK",
+  "date":"24/10/2021",
+  "stops":"1 Stop"
+  },
+  "test1":{
+  "goingfrom":"BOM",
+  "goingto":"JFK",
+  "date":"12/10/2021",
+  "stops":"2 Stop"
+  }
+  }

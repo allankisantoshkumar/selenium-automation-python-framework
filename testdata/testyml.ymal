@@ -1,0 +1,12 @@
+---
+tes1:
+goingfrom:Bom
+goingto:JFK
+date:24/10/2021
+stops:1 Stop
+tes2:
+goingfrom:New Delhi
+goingto:JFK
+date:14/10/2021
+stops:2 Stop
+...

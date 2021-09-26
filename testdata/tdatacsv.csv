@@ -1,0 +1,5 @@
+goingfrom,goingto,date,stops
+New  Delhi,BOM,23-10-2021,1 Stop
+BOM,New Delhi,10-10-2021,2 Stop
+New  Delhi,JFK,25-10-2021,0 Stop
+BOM,JFK,15-10-2021,1 Stop
